@@ -1,6 +1,6 @@
 # 😊 Customer Satisfaction Analysis – Retail Sector
 
-![Workflow](https://github.com/k-for-karthik/Customer-Satisfaction-Analysis-Retail-Sector/blob/f60bbd4f4504d402f43271994b753ba7d413d5a3/workflow%20image.jpeg)<br>
+![Workflow](https://github.com/k-for-karthik/Customer-Satisfaction-Analysis-Retail-Sector/blob/main/workflow%20image.jpeg)<br>
 [Click Here to download the .yxmd file if you have Alteryx in your device](https://github.com/k-for-karthik/Customer-Satisfaction-Analysis-Retail-Sector/blob/main/Project1.yxmd)
 ### 🧠 Business Problem
 The company aimed to enhance customer satisfaction but lacked clarity on how satisfaction varied by income levels, countries, loyalty tiers, and purchasing behavior.
